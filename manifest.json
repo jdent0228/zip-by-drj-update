@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "notes": "v0.7.1 업데이트",
+  "version": "0.7.2",
+  "notes": "v0.7.2 업데이트",
   "files": [
-    { "path": "Contents/MacOS/zip by Dr.J", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.7.1/drj-gui", "sha256": "ac54f44f55c07cb5ccc47f08869198e300357d2f9bf58f962f8d35663fea21b1", "size": 639712 },
-    { "path": "Contents/Resources/engine/cli.cjs", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.7.1/drj-cli.cjs", "sha256": "397123be9174f733f449811b1d18e83920c67a4763437a09f5ab46e97b640a73", "size": 46953 },
-    { "path": "Contents/Info.plist", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.7.1/drj-Info.plist", "sha256": "6bc9b77189058f3d5f3f45a562381426012d7dd2ac1297438493e15cd3344f41", "size": 1222 },
-    { "path": "Contents/Resources/AppIcon.icns", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.7.1/drj-AppIcon.icns", "sha256": "d30c0fced1dc172e3c1c33a67cf0c7f841ed57a5b8c9ab9d4ddaf622f8d8929d", "size": 155297 },
+    { "path": "Contents/MacOS/zip by Dr.J", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.7.2/drj-gui", "sha256": "e651283dbea7cf617460d5ecaa3ddcafb8ef6a8efc3a43f519586a1ca11f9065", "size": 674960 },
+    { "path": "Contents/Resources/engine/cli.cjs", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.7.2/drj-cli.cjs", "sha256": "53efb2ddae783abb3995706f7c44748ff6d7719b9da4b4c19226554a09bc267a", "size": 46953 },
+    { "path": "Contents/Info.plist", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.7.2/drj-Info.plist", "sha256": "571f9df637b7923bf9ccffcd4fe5b90012823ccf67f80be48fa7dc8cd059cbea", "size": 1222 },
+    { "path": "Contents/Resources/AppIcon.icns", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.7.2/drj-AppIcon.icns", "sha256": "d30c0fced1dc172e3c1c33a67cf0c7f841ed57a5b8c9ab9d4ddaf622f8d8929d", "size": 155297 },
     { "path": "Contents/Resources/engine/node", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/node-v26.0.0/node-v26.0.0", "sha256": "7d7b6664e04723d372ad5a6565616b77f401f76f3e3aaa12ba09b7ff7ca636e9", "size": 143020080 }
   ]
 }

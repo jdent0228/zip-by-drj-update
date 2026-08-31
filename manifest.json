@@ -1,12 +1,12 @@
 {
-  "version": "0.8.3",
-  "notes": "v0.8.3 업데이트",
+  "version": "0.8.4",
+  "notes": "v0.8.4 업데이트",
   "files": [
-    { "path": "Contents/MacOS/zip by Dr.J", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.3/drj-gui", "sha256": "987844bf3ae2984d14cadb59df2bf96a2b2a620f853b0f902c3a9e79813a3f62", "size": 745024 },
-    { "path": "Contents/Resources/engine/cli.cjs", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.3/drj-cli.cjs", "sha256": "0e92fb247bad9ab16f4895442d072355046c07b3e9e234b04a6c26bdf6d0e537", "size": 46953 },
-    { "path": "Contents/Info.plist", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.3/drj-Info.plist", "sha256": "5193c42554dd3e226bb8beeefb7547f91a99f93d45e57fd16eb75401dd021787", "size": 1352 },
-    { "path": "Contents/Resources/AppIcon.icns", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.3/drj-AppIcon.icns", "sha256": "d30c0fced1dc172e3c1c33a67cf0c7f841ed57a5b8c9ab9d4ddaf622f8d8929d", "size": 155297 },
-    { "path": "Contents/Resources/ko.lproj/InfoPlist.strings", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.3/drj-InfoPlist.strings", "sha256": "3d5e233df4a409b102aeb9eef50f746aa5f13570fbbf1cd808268af0e846e3a9", "size": 67 },
+    { "path": "Contents/MacOS/zip by Dr.J", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.4/drj-gui", "sha256": "5f3d6b6ed95d36c08f728a3120a59d1f6d337e77e06efdbced84151b553a2c0b", "size": 761872 },
+    { "path": "Contents/Resources/engine/cli.cjs", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.4/drj-cli.cjs", "sha256": "fc393d9b051781c1c9fc4948ce64feb725d79bd1c020f8e7be59e98290b3fa1e", "size": 46953 },
+    { "path": "Contents/Info.plist", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.4/drj-Info.plist", "sha256": "346478d645bb702e328c629e5b397cf89e100dcc93890f307d3e232d4220708a", "size": 1352 },
+    { "path": "Contents/Resources/AppIcon.icns", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.4/drj-AppIcon.icns", "sha256": "5d1730b6b27a7ceead5d8515631eee2ded5520d54a13e4bf26c0db241852c19c", "size": 139958 },
+    { "path": "Contents/Resources/ko.lproj/InfoPlist.strings", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/v0.8.4/drj-InfoPlist.strings", "sha256": "3d5e233df4a409b102aeb9eef50f746aa5f13570fbbf1cd808268af0e846e3a9", "size": 67 },
     { "path": "Contents/Resources/engine/node", "url": "https://github.com/jdent0228/zip-by-drj-update/releases/download/node-v26.0.0/node-v26.0.0", "sha256": "7d7b6664e04723d372ad5a6565616b77f401f76f3e3aaa12ba09b7ff7ca636e9", "size": 143020080 }
   ]
 }
